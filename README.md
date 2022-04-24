@@ -52,7 +52,7 @@ Clustering identifie bien les vrais et faux billets
 
 ### Régression logistique  
 
-Séparation des données en train/test  
+Séparation des données en train/test avec train_test_split  
 Normalisation des données  
 
 Entrainement de la régression logistique sur le train set  
@@ -67,10 +67,10 @@ Vérification de la possibilité d'une meilleure prédiction avec l'oversampling
 ### Prédictions avec centroïdes k-means  
 
 Normalisation des données  
-Séparation des données en train/test  
+Séparation des données en train/test avec train_test_split  
 
-Nouveau k-means réalisé sur le train set 
-Utilisation des centroïdes pour prédire sur le test set 
+Nouveau k-means réalisé sur le train set   
+Utilisation des centroïdes pour prédire sur le test set   
 -> Un peu moins bon que la régression logistique  
 
 ### Algorithme de prédiction
@@ -83,6 +83,6 @@ Création de la fonction de prédiction
 Création d'une application avec Tkinter 
 
 Permets : 
-- Ouvrir un fichier/dataset 
-- Verifier que la forme du fichier/dataset corresponde bien au modèle entraîné (forme, pas de valeurs nulles)  
-- Afficher l'identification vrai/faux pour chaque billet
+- D'ouvrir un fichier/dataset 
+- De vérifier que la forme du fichier/dataset corresponde bien au modèle entraîné (forme, pas de valeurs nulles)  
+- D'afficher l'identification vrai/faux pour chaque billet
