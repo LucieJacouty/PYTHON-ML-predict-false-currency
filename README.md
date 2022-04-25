@@ -6,8 +6,8 @@ Objectif : pour lutter contre le faux-monnayage, créer un modèle capable d'ide
 
 Contenu :
 - Data : données utilisées (2 datasets, le 2nd pour tester l'algorithme final)
-- Code : Création d'un modèle prédictif par régression logistique  
-- Script App : Réalisation d'un application permettant d'appliquer le modèle avec Tkinter  
+- Code : notebook jupyter regroupant toutes les étapes de la création du modèle prédictif  
+- Script App : script d'application permettant d'appliquer le modèle (réalisé avec Tkinter)    
 
 
 ## Code
