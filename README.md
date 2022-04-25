@@ -1,11 +1,13 @@
 # Création d'un algorithme de détection de faux billets 
 
-Projet Openclassrooms formation data Analyst  
+Projet Openclassrooms - Formation Data Analyst  
 
-Dans un but de lutte contre le faux-monnayage, on est en charge créer un modèle capable d'identifier, à partir de plusieurs données numériques de dimension d'un billet, les faux et les vrais billets
+Objectif : pour lutter contre le faux-monnayage, créer un modèle capable d'identifier, à partir de plusieurs données numériques de dimension d'un billet, les faux et les vrais billets
 
-Code : Création d'un modèle prédictif par régression logistique  
-Script App : Réalisation d'un application permettant d'appliquer le modèle avec Tkinter  
+Contenu :
+- Data : données utilisées (2 datasets, le 2nd pour tester l'algorithme final)
+- Code : Création d'un modèle prédictif par régression logistique  
+- Script App : Réalisation d'un application permettant d'appliquer le modèle avec Tkinter  
 
 
 ## Code
